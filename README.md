@@ -1,1 +1,3 @@
-# PRACTICE_DisneyLand_Reviews_NLP_and_Sentiments
+# PRACTICE: DisneyLand Reviews NLP and Sentiments
+
+To understand NLP and Sentiments. Practice from https://www.kaggle.com/code/ahmedterry/disneyland-reviews-nlp-sentiment-analysis
