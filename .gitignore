@@ -1,5 +1,24 @@
-# Object file
-*.o
+#Mac changes files
+.DS_Store*
 
-# Ada Library Information
-*.ali
+#API keys
+API*
+
+#Config / Password files
+config*
+
+#resources directory
+resources/*
+
+#practice directory
+practice/*
+
+#modular programmes directory
+WIP/*
+
+#ignore sample codes for testing
+sample*
+
+#checkpoints directory
+checkpoints/*
+*checkpoints*
