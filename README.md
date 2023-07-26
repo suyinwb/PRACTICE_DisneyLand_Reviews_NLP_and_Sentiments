@@ -6,5 +6,5 @@ INSTALLATION
 ```
 conda activate ENV
 conda install -c conda-forge textblob
-conda update all
+
 ```
